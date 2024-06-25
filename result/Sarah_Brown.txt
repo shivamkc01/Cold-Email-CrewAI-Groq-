@@ -1,0 +1,16 @@
+```
+Hey Sarah!
+
+I hope this message finds you doing great!
+
+I'm thrilled to invite you to join our Skool community, and I know you'll be an invaluable addition. Our weekly coaching calls are on Tuesdays at 6 PM Eastern Time, and we'd be so excited to have your scalable systems design expertise on board.
+
+We're about to hit a significant milestone of 500 users, and your contributions—like improving the database schema for better performance—have been crucial to our growth. Thank you!
+
+Our community is a powerful tool for support on your projects and connecting with like-minded people. If you ever have questions or need assistance, our members and coaching calls are here for you.
+
+Looking forward to having you join us! If you have any questions or need more information, don't hesitate to reach out to [your_email@example.com](mailto:your_email@example.com).
+
+Warm regards,
+Shivam Chhetry
+```

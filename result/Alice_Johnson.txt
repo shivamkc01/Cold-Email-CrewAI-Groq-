@@ -1,0 +1,16 @@
+```
+Hey Alice,
+
+I hope you're doing great!
+
+I'm thrilled to invite you to join our Skool community. We host lively coaching calls every Tuesday at 6 PM Eastern Time, and we'd be thrilled if you could join us!
+
+Our community is your go-to resource for all things related to your projects and connecting with like-minded individuals. It's completely free, and we're just about to hit a significant milestone of 500 users.
+
+As a frontend developer with a knack for user experience design, you'll bring invaluable insights to our community. We're excited to see how you'll collaborate with others and help one another.
+
+Looking forward to seeing you at our next coaching call! If you have any questions or need more information, just let me know. I'm here to help!
+
+Best,
+Shivam Chhetry
+```

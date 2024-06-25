@@ -1,0 +1,16 @@
+```
+Hey Daniel!
+
+I hope this message finds you doing great! I'm thrilled to invite you to join our Skool community, and I think you'll find it's an amazing resource for someone like you.
+
+We host weekly coaching calls every Tuesday at 6 PM Eastern Time, and I believe you'll find our sessions incredibly valuable as a software engineer interested in machine learning and AI applications.
+
+The best part? It's completely free! We're just about to reach a milestone of 500 users, so it's an exciting time to be a part of our growing community.
+
+What makes our community truly special is the support and connections you'll find here. If you ever have questions or need help with your projects, our members and coaching calls are here for you.
+
+I truly hope you'll join us and look forward to seeing you at our next coaching call. If you have any questions or need further information, just drop me a line at daniel.miller@example.com.
+
+Warm Regards,
+Shivam Chhetry
+```

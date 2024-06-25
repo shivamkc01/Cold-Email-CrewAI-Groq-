@@ -1,0 +1,18 @@
+```
+Hey Emily!
+
+I hope you're doing great!
+
+I'm thrilled to invite you to join our Skool community, where we host engaging weekly coaching calls every Tuesday at 6 PM Eastern Time. And guess what? You're invited!
+
+Our community is thriving and absolutely free for you to join. We're just about to hit a significant milestone of 500 users. Exciting, right?
+
+As a meticulous QA engineer, I believe you'll truly benefit from the rigorous testing methods of our community members. Skool is an incredible resource for getting support for your projects and connecting with like-minded individuals. With our members and coaching calls, you'll never be left hanging. We're always here to help answer your questions or lend a hand.
+
+We can't wait to welcome you aboard and see you at our next coaching call. If you have any questions or need further information, don't hesitate to drop me a line at emily.davis@example.com.
+
+Looking forward to having you in our community!
+
+Warm regards,
+Shivam Chhetry
+```

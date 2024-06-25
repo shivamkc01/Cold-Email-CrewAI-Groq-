@@ -1,0 +1,15 @@
+```
+Hey David!
+
+I hope you're doing well! I'm thrilled to invite you to join our Skool community—it's the perfect place for a DevOps engineer like you who's passionate about automation and continuous integration.
+
+Every Tuesday at 6 PM Eastern Time, we host coaching calls where you can connect with other enthusiasts, ask questions, and seek assistance. The best part? It's absolutely free! We're on the verge of reaching a significant milestone of 500 users, and we'd be thrilled for you to be a part of it.
+
+Our community is a treasure trove of knowledge and support for your projects, and our coaching calls are designed to help you overcome any challenges you might face. Whether you're seeking advice or just want to hang out with people who share your interests, we're here for you.
+
+I can't wait for you to join us at our next coaching call! If you have any questions or need further information, just drop me a line at david.jones@example.com.
+
+Excited to see you there!
+
+Shivam Chhetry
+```

@@ -1,0 +1,16 @@
+```less
+Hey John!
+
+I hope you're doing great!
+
+I'm thrilled to invite you to join our Skool community. We host weekly coaching calls every Tuesday at 6 PM Eastern Time, and we'd be super excited to have you, with your impressive 10+ years of experience in backend development, on board!
+
+Our community is absolutely free, and we're just about to hit a milestone of 500 users! Being a part of our community means having access to a wealth of knowledge, support for your projects, and connecting with like-minded individuals. Whether you have questions or need a helping hand, our members and coaching calls are here for you.
+
+During our last chat, we talked about the upcoming project timeline and requirements, and I'm confident that our community can offer valuable insights that will help make your projects shine.
+
+I can't wait to welcome you to our community and see you at our next coaching call. If you have any questions or need more information, please don't hesitate to reach out. I'm here to help!
+
+Best,
+Shivam Chhetry
+```

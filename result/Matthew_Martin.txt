@@ -1,0 +1,14 @@
+```
+Hey Matthew!
+
+I hope you're doing great! I'm excited to invite you to join our Skool community, and I think you'll find it to be an invaluable resource as a frontend developer.
+
+Every Tuesday at 6 PM Eastern Time, we host coaching calls where you can connect with like-minded individuals and get support for your projects. We're close to reaching a milestone of 500 users, and it's a fantastic platform for discussing and learning about best practices for frontend optimization – something you mentioned being interested in during our last conversation.
+
+Our community is a warm, welcoming place where you can ask questions, share your knowledge, and get assistance from fellow developers. Plus, it's completely free to join!
+
+I'm confident you'll find immense value in being part of our community, and I hope to see you at our next coaching call. If you have any questions or need more information, please don't hesitate to reach out. I'm here to help!
+
+Best,
+Shivam Chhetry
+```
